@@ -181,7 +181,7 @@ if __name__ == "__main__":
 
 
 # My Notes:----
-# uvicorn entrypoint for Render / Railway
+# uvicorn command for Render
     # Start command: uvicorn main:app --host 0.0.0.0 --port $PORT
 
 # During Dev:--
