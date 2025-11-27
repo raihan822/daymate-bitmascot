@@ -58,7 +58,7 @@ daymate/
 │ ├─ main.py
 │ ├─ requirements.txt
 │ └─ .env.example
-├─ frontend/    (frontend still pending)
+├─ frontend/    (frontend pending [with React+vite])
 └─ README.md
 ```
 
@@ -262,3 +262,4 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 
 © Raihan Sarker
 🔗 [LinkedIn](https://www.linkedin.com/in/raihan82/) | 📫 Email: [raihansarker820@gmail.com](mailto:raihansarker820@gmail.com)
+
