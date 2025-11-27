@@ -1,0 +1,113 @@
+{
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 1,
+  "articles": [
+    {
+      "id": "42267e922cf75cfdd0149dcfe79d35be",
+      "title": "Those denied nominations will get due responsibility, respect: Fakhrul",
+      "description": "BNP Nomination Announcement 2026 Election: BNP Secretary General Mirza Fakhrul Islam Alamgir has urged the leaders and activists to keep faith in the party's leadership, assuring that those who did not receive nominations for the upcoming election will be given due responsibility and respect.",
+      "content": "BNP Secretary General Mirza Fakhrul Islam Alamgir has urged the leaders and activists to keep faith in the party's leadership, assuring that those who did not receive nominations for the upcoming election will be given due responsibility and respect.... [1279 chars]",
+      "url": "https://www.thedailystar.net/news/bangladesh/politics/news/those-denied-nominations-will-get-due-responsibility-respect-fakhrul-4026816",
+      "image": "https://tds-images.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2025/07/21/FAKHRUL%20STORY.jpg",
+      "publishedAt": "2025-11-04T09:28:16Z",
+      "lang": "en",
+      "source": {
+        "id": "4c601039d00af234e52a8219c9ecc97e",
+        "name": "The Daily Star",
+        "url": "https://www.thedailystar.net"
+      }
+    }
+  ]
+}
+
+===============================
+
+{
+  "information": {
+    "realTimeArticles": {
+      "message": "Real-time news data is only available on paid plans. Free plan has a 12-hour delay. Upgrade your plan here to remove the delay: https://gnews.io/change-plan"
+    }
+  },
+  "totalArticles": 345114,
+  "articles": [
+    {
+      "id": "38a7e4e1342321d8db82eda088a98609",
+      "title": "Black Friday TV deals are live with huge discounts (and giant screens) from Samsung, Sony, Hisense and more - save up to 60%",
+      "description": "Sale prices start as low as $60 (really!) for the newest TVs, ready to stream you a world of entertainment and live sports.",
+      "content": "Ready to ditch your old TV? There's no better time than Black Friday.\nIf you're like me, your crummy old TV isn't cutting it anymore — especially with Black Friday TV deals already flooding the internet. We're still a couple of days out from the main... [11778 chars]",
+      "url": "https://tech.yahoo.com/home-entertainment/tvs/deals/article/black-friday-tv-deals-are-live-with-huge-discounts-and-giant-screens-from-samsung-sony-hisense-and-more--save-up-to-60-224800957.html",
+      "image": "https://s.yimg.com/ny/api/res/1.2/BIQCCfPAD7zfXgwzYyV17Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-11/3662adb0-cb0f-11f0-a5ff-6fa8fdcb1064",
+      "publishedAt": "2025-11-26T21:21:43Z",
+      "lang": "en",
+      "source": {
+        "id": "714a98fc9d03fbcb80a1f7a89e443342",
+        "name": "Yahoo! Tech",
+        "url": "https://tech.yahoo.com"
+      }
+    },
+    {
+      "id": "d21681057024650162d02e2b9c019cd7",
+      "title": "Appeals court upholds $1M penalty against Trump over 'frivolous' Hillary Clinton lawsuit",
+      "description": "A federal appeals court on Wednesday upheld an almost $1 million penalty against Trump and his attorneys for \"sanctionable conduct\" in a lawsuit they brought against Hillary Clinton.",
+      "content": "A federal appeals court on Wednesday upheld an almost $1 million penalty against President Donald Trump and his attorneys for \"sanctionable conduct\" in a racketeering lawsuit they brought against Hillary Clinton and other Democrats over the 2016 elec... [1818 chars]",
+      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-1-million-penalty-trump-bad-faith-hillary-clinton-rcna246067",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251126-trump-alina-habba-mn-1505-a85e73.jpg",
+      "publishedAt": "2025-11-26T21:08:00Z",
+      "lang": "en",
+      "source": {
+        "id": "3bab6463853c054dc51d2427c1a5b69e",
+        "name": "NBC News",
+        "url": "https://www.nbcnews.com"
+      }
+    },
+    {
+      "id": "80af3f044d6e9c59873ed441951d3255",
+      "title": "Georgia prosecutor drops election interference case against Trump, others",
+      "description": "The Fulton County election interference case against President Trump and others has been dismissed after the prosecutor who took over the case asked that it be dropped.",
+      "content": "The Fulton County, Georgia, election interference case against President Donald Trump and others has been dismissed after the prosecutor who took over the case requested that it be dropped.\n\"In my professional judgment, the citizens of Georgia are no... [6817 chars]",
+      "url": "https://abcnews.go.com/US/georgia-prosecutor-drops-election-interference-case-trump/story?id=127898245",
+      "image": "https://i.abcnewsfe.com/a/b05418ff-0689-4391-8a18-16ad84943c27/trump-mug-gty-gmh-251126_1764187630341_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2025-11-26T21:05:06Z",
+      "lang": "en",
+      "source": {
+        "id": "5ca536331c246cd7f693cdb2cceaff8c",
+        "name": "ABC News",
+        "url": "https://abcnews.go.com"
+      }
+    },
+    {
+      "id": "09159fa030c0835730f289b61f781be0",
+      "title": "Trump defends Steve Witkoff, his key negotiator with Russia : NPR",
+      "description": "A transcript of the call appears to show Steve Witkoff coaching his Russian counterpart on how they could get a better deal to end the war in Ukraine",
+      "content": "President Trump is defending Steve Witkoff, his special envoy, after a leaked recording appeared to show him coaching a Russian official on how to better sell Moscow's terms to end the war with Ukraine to the U.S. president.\nTrump dismissed any conce... [6265 chars]",
+      "url": "https://www.npr.org/2025/11/26/nx-s1-5621838/trump-steve-witkoff-russia",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F23%2F47cb0ca8426e9b338a00225d1016%2Fgettyimages-2216879972.jpg",
+      "publishedAt": "2025-11-26T21:02:03Z",
+      "lang": "en",
+      "source": {
+        "id": "0978beb86628acb239ee06cf0b116d2c",
+        "name": "NPR",
+        "url": "https://www.npr.org"
+      }
+    },
+    {
+      "id": "efca2ede81206d2d4e7712cab6c470e1",
+      "title": "Frank Ragnow is coming out of retirement",
+      "description": "Dan Campbell said earlier this month that \"the ship has sailed\" on a return.",
+      "content": "The ship has sailed on Frank Ragnow coming out of retirement? It looks like the ship has sailed on the ship sailing.\nRagnow is coming back.\nThe Lions posted without comment an image of the long-time center running out of the tunnel at Ford Field. Via... [861 chars]",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/frank-ragnow-is-coming-out-of-retirement",
+      "image": "https://nbcsports.brightspotcdn.com/dims4/default/a09e1ad/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5d%2F23%2F590ac3854fcf9e19275dcf3aac00%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2191991826",
+      "publishedAt": "2025-11-26T21:01:59Z",
+      "lang": "en",
+      "source": {
+        "id": "dc8f73f077072c35626eba314ee483bd",
+        "name": "NBC Sports",
+        "url": "https://www.nbcsports.com"
+      }
+    }
+  ]
+}
