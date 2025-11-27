@@ -25,18 +25,19 @@ GNEWS_URL = "https://gnews.io/api/v4/top-headlines"
 
 
 # Homepage route (Default):---
-from fastapi.responses import RedirectResponse
-@app.get("/")
-async def docs_redirect():
-    return RedirectResponse(url="/docs")
-
+# from fastapi.responses import RedirectResponse
 # @app.get("/")
-# async def root():
-#     return {
-#         "message": "Welcome to DayMate API!",
-#         "docs_url": "/docs",
-#         "status": "running"
-#     }
+# async def docs_redirect():
+#     return RedirectResponse(url="/docs")
+
+@app.get("/")
+async def root():
+    return {
+        "message": "Welcome to DayMate API!",
+        "swagger_ui": "https://daymate-bitmascot-backend.onrender.com/docs",
+        "docs_url": "/docs",
+        "status": "running"
+    }
 
 
 # My Main APIs:---
