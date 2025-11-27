@@ -1,0 +1,16 @@
+curl -X 'POST' \
+  'http://127.0.0.1:8000/plan' \
+  -H 'accept: application/json' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "lat": 23.7104,
+  "lon": 90.40744,
+  "location_name": "bd"
+}'
+
+
+Response Body:
+{
+  "planning": "Given the haze and warm temperature, here's a concise daily plan and some practical recommendations:\n\n**Daily Plan:**\n1. **Morning Exercise (Indoor)**: Consider an indoor workout or yoga to avoid haze exposure.\n2. **Work/Studies**: Focus on your priority tasks for the day, staying hydrated and taking breaks in a well-ventilated area.\n3. **Evening Review**: Review the day's progress, and catch up on news, including the latest on nominations and political developments.\n\n**Practical Recommendations:**\n- **Carry Items**: Mask (for outdoor protection against haze), water bottle, and a portable charger for your devices.\n- **Reschedule**: If possible, reschedule outdoor activities for a clearer day. Consider wearing protective eyewear and staying indoors during peak haze hours.\n- **Stay Informed**: Keep an eye on weather updates and air quality indices to plan your day accordingly.\n\nStay safe and productive!",
+  "prompt": "User is at bd. Weather: haze, temp 22.99°C. Top headlines: ['Those denied nominations will get due responsibility, respect: Fakhrul']. Generate a concise daily plan (3-6 items) and practical recommendations (carry items, suggest reschedule if needed)."
+}
