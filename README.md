@@ -19,8 +19,7 @@
 8. [LLM integration & fallback behavior](#llm-integration--fallback-behavior)
 9. [Deploying to Render (how I deployed)](#deploying-to-render-how-i-deployed)
 10. [Troubleshooting & common gotchas](#troubleshooting--common-gotchas)
-11. [Development notes & next steps](#development-notes--next-steps)
-12. [License](#license)
+11. [Future Plan](#future-plan)
 
 ---
 
@@ -269,4 +268,5 @@ If you want, I can:
 
 * add a short `curl` + example response section for each endpoint (with sample output), or
 * patch the root route to return a custom JSON message (instead of redirect), and provide the exact `git` commands to push this fix to the branch you deploy. Which would you prefer?
+
 
