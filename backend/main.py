@@ -111,7 +111,7 @@ async def generate_plan(req: PlanRequest):
         f"Top headlines: {headlines}. "
         "Generate a concise daily plan (3-6 items) and practical recommendations (carry items, suggest reschedule if needed)."
     )
-    print("Prompt is ===>\n",prompt)
+    # print("Prompt is ===>\n",prompt)
 
     # Calling AI Model:--
     if GROQ_API_KEY:
@@ -160,7 +160,8 @@ if __name__ == "__main__":
     # Async runner to call the async function
     import asyncio
     result = asyncio.run(generate_plan(payload))
-    print("LLM Result ===>\n",result.get("planning","No Result from LLM"))
+    print("Prompt is ===>\n",result.get("prompt","No Prompt Pushed!"))
+    print("\nLLM Result ===>\n",result.get("planning","No Result from LLM!"))
 
 
 
